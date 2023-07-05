@@ -1,1207 +1,1216 @@
 {
-    "food_category": {
-        "Break-fast": {
-            "Egypt": {
-                "self_data": {
-                    "flag-src": "",
-                    "photo_src": ""
-                },
-                "meals": {
-                    "Meal One": {
-                        "id": "1",
-                        "location": "./Kitchen/meals/breakfast/Casseroles/Breakfast Quiche/Easy Bacon and Cheese Quiche/أرز بالكاري مع كرات اللحم.mp4",
-                        "title": "Easy Bacon and Cheese Quiche",
-                        "audio": "./Kitchen/meals/breakfast/Casseroles/Breakfast Quiche/Easy Bacon and Cheese Quiche/unknown_2023.07.04-00.03.mp3",
-                        "Ingredients": [
-                            "كفتة: 300 غراماً (مع بقدونس وبصل)",
-                            "بقسماط: ربع كوب",
-                            "بهارات مشكلة: نصف ملعقة صغيرة",
-                            "ملح: ملعقة صغيرة",
-                            "مرق دجاج: 1 مكعب",
-                            "أرز بسمتي: كوب ونصف (مغسول ومنقوع)",
-                            "البصل: 1 حبة (كبير الحجم / مقطع شرائح)",
-                            "الزيت النباتي: 2 ملعقة كبيرة",
-                            "هيل: ملعقة صغيرة (مطحون)",
-                            "الزبدة: ملعقة كبيرة",
-                            "بودرة الكاري: 2 ملعقة صغيرة",
-                            "زبيب: ربع كوب",
-                            "الجزر: 3 حبات (مبشور)",
-                            "ماء ساخن: كوبان وربع",
-                            "الزيت النباتي: 2 ملعقة كبيرة (لقلي كرات اللحم)"
-                        ],
-                        "description": "Prep Time: 10 mins Cook Time:50 mins Total Time:1 hr Servings:6"
-                    },
-                    "Meal Two": {
-                        "id": "2",
-                        "location": "./Kitchen/meals/breakfast/Casseroles/Breakfast Quiche/Easy Quiche/How to Make Quiche _ Easy Quiche Recipe _ Allrecipes.com.mp4",
-                        "title": "Easy Bacon and Cheese Quiche",
-                        "Ingredients": [
-                            "2 cups milk",
-                            "4 large eggs",
-                            "1 cup grated Parmesan cheese",
-                            "3/4 cup biscuit baking mix",
-                            "1/4 cup butter, softened",
-                            "1 (10 ounce) package chopped frozen broccoli, thawed and drained",
-                            "8 ounces shredded Cheddar cheese",
-                            "1 cup cubed cooked ham"
-                        ],
-                        "description": "Total Time: 1 hr Servings: 8 Yield: 1 (10-inch) quiche"
-                    },
-                    "Meal Three": {
-                        "id": "3",
-                        "location": "./Kitchen/meals/breakfast/Casseroles/Breakfast Quiche/Loaded Vegetarian Quiche/main.mp4",
-                        "title": "Loaded Vegetarian Quiche",
-                        "Ingredients": [
-                            "1 (9 inch) deep-dish pie crust",
-                            "1 tablespoon olive oil",
-                            "½ cup sliced onion",
-                            "½ cup chopped green bell pepper",
-                            "½ cup mushrooms, sliced",
-                            "½ cup chopped zucchini",
-                            "1 large tomato, sliced"
-                        ],
-                        "description": "Prep Time: 20 mins Cook Time: 55 mins Additional Time: 5 mins Total Time: 1 hr 20 mins Servings: 8 Yield:1 deep-dish quiche"
-                    }
-                }
-            },
-            "Lebanon": {
-                "self_data": {
-                    "flag-src": "",
-                    "photo_src": ""
-                },
-                "meals": {
-                    "Meal One": {
-                        "id": "",
-                        "location": "",
-                        "Ingredients": [],
-                        "description": ""
-                    },
-                    "Meal Two": {
-                        "id": "",
-                        "location": "",
-                        "Ingredients": [],
-                        "description": ""
-                    },
-                    "Meal Three": {
-                        "id": "",
-                        "location": "",
-                        "Ingredients": [],
-                        "description": ""
-                    }
-                }
-            },
-            "khaligi": {
-                "self_data": {
-                    "flag-src": "",
-                    "photo_src": ""
-                },
-                "meals": {
-                    "Meal One": {
-                        "id": "",
-                        "location": "",
-                        "Ingredients": [],
-                        "description": ""
-                    },
-                    "Meal Two": {
-                        "id": "",
-                        "location": "",
-                        "Ingredients": [],
-                        "description": ""
-                    },
-                    "Meal Three": {
-                        "id": "",
-                        "location": "",
-                        "Ingredients": [],
-                        "description": ""
-                    }
-                }
-            },
-            "Morocco": {
-                "self_data": {
-                    "flag-src": "",
-                    "photo_src": ""
-                },
-                "meals": {
-                    "Meal One": {
-                        "id": "",
-                        "location": "",
-                        "Ingredients": [],
-                        "description": ""
-                    },
-                    "Meal Two": {
-                        "id": "",
-                        "location": "",
-                        "Ingredients": [],
-                        "description": ""
-                    },
-                    "Meal Three": {
-                        "id": "",
-                        "location": "",
-                        "Ingredients": [],
-                        "description": ""
-                    }
-                }
-            },
-            "French": {
-                "self_data": {
-                    "flag-src": "",
-                    "photo_src": ""
-                },
-                "meals": {
-                    "Meal One": {
-                        "id": "",
-                        "location": "",
-                        "Ingredients": [],
-                        "description": ""
-                    },
-                    "Meal Two": {
-                        "id": "",
-                        "location": "",
-                        "Ingredients": [],
-                        "description": ""
-                    },
-                    "Meal Three": {
-                        "id": "",
-                        "location": "",
-                        "Ingredients": [],
-                        "description": ""
-                    }
-                }
-            },
-            "Italian": {
-                "self_data": {
-                    "flag-src": "",
-                    "photo_src": ""
-                },
-                "meals": {
-                    "Meal One": {
-                        "id": "",
-                        "location": "",
-                        "Ingredients": [],
-                        "description": ""
-                    },
-                    "Meal Two": {
-                        "id": "",
-                        "location": "",
-                        "Ingredients": [],
-                        "description": ""
-                    },
-                    "Meal Three": {
-                        "id": "",
-                        "location": "",
-                        "Ingredients": [],
-                        "description": ""
-                    }
-                }
-            },
-            "Indian": {
-                "self_data": {
-                    "flag-src": "",
-                    "photo_src": ""
-                },
-                "meals": {
-                    "Meal One": {
-                        "id": "",
-                        "location": "",
-                        "Ingredients": [],
-                        "description": ""
-                    },
-                    "Meal Two": {
-                        "id": "",
-                        "location": "",
-                        "Ingredients": [],
-                        "description": ""
-                    },
-                    "Meal Three": {
-                        "id": "",
-                        "location": "",
-                        "Ingredients": [],
-                        "description": ""
-                    }
-                }
-            },
-            "Turkey": {
-                "self_data": {
-                    "flag-src": "",
-                    "photo_src": ""
-                },
-                "meals": {
-                    "Meal One": {
-                        "id": "",
-                        "location": "",
-                        "Ingredients": [],
-                        "description": ""
-                    },
-                    "Meal Two": {
-                        "id": "",
-                        "location": "",
-                        "Ingredients": [],
-                        "description": ""
-                    },
-                    "Meal Three": {
-                        "id": "",
-                        "location": "",
-                        "Ingredients": [],
-                        "description": ""
-                    }
-                }
-            },
-            "Spanish": {
-                "self_data": {
-                    "flag-src": "",
-                    "photo_src": ""
-                },
-                "meals": {
-                    "Meal One": {
-                        "id": "",
-                        "location": "",
-                        "Ingredients": [],
-                        "description": ""
-                    },
-                    "Meal Two": {
-                        "id": "",
-                        "location": "",
-                        "Ingredients": [],
-                        "description": ""
-                    },
-                    "Meal Three": {
-                        "id": "",
-                        "location": "",
-                        "Ingredients": [],
-                        "description": ""
-                    }
-                }
-            },
-            "Asian": {
-                "self_data": {
-                    "flag-src": "",
-                    "photo_src": ""
-                },
-                "meals": {
-                    "Meal One": {
-                        "id": "",
-                        "location": "",
-                        "Ingredients": [],
-                        "description": ""
-                    },
-                    "Meal Two": {
-                        "id": "",
-                        "location": "",
-                        "Ingredients": [],
-                        "description": ""
-                    },
-                    "Meal Three": {
-                        "id": "",
-                        "location": "",
-                        "Ingredients": [],
-                        "description": ""
-                    }
-                }
-            }
+  "food_category": {
+    "Break-fast": {
+      "Egypt": {
+        "self_data": {
+          "flag-src": "",
+          "photo_src": ""
         },
-        "lunch": {
-            "Egypt": {
-                "self_data": {
-                    "flag-src": "",
-                    "photo_src": ""
-                },
-                "meals": {
-                    "Meal One": {
-                        "id": "",
-                        "location": "",
-                        "Ingredients": [],
-                        "description": ""
-                    },
-                    "Meal Two": {
-                        "id": "",
-                        "location": "",
-                        "Ingredients": [],
-                        "description": ""
-                    },
-                    "Meal Three": {
-                        "id": "",
-                        "location": "",
-                        "Ingredients": [],
-                        "description": ""
-                    }
-                }
-            },
-            "Lebanon": {
-                "self_data": {
-                    "flag-src": "",
-                    "photo_src": ""
-                },
-                "meals": {
-                    "Meal One": {
-                        "id": "",
-                        "location": "",
-                        "Ingredients": [],
-                        "description": ""
-                    },
-                    "Meal Two": {
-                        "id": "",
-                        "location": "",
-                        "Ingredients": [],
-                        "description": ""
-                    },
-                    "Meal Three": {
-                        "id": "",
-                        "location": "",
-                        "Ingredients": [],
-                        "description": ""
-                    }
-                }
-            },
-            "khaligi": {
-                "self_data": {
-                    "flag-src": "",
-                    "photo_src": ""
-                },
-                "meals": {
-                    "Meal One": {
-                        "id": "",
-                        "location": "",
-                        "Ingredients": [],
-                        "description": ""
-                    },
-                    "Meal Two": {
-                        "id": "",
-                        "location": "",
-                        "Ingredients": [],
-                        "description": ""
-                    },
-                    "Meal Three": {
-                        "id": "",
-                        "location": "",
-                        "Ingredients": [],
-                        "description": ""
-                    }
-                }
-            },
-            "Morocco": {
-                "self_data": {
-                    "flag-src": "",
-                    "photo_src": ""
-                },
-                "meals": {
-                    "Meal One": {
-                        "id": "",
-                        "location": "",
-                        "Ingredients": [],
-                        "description": ""
-                    },
-                    "Meal Two": {
-                        "id": "",
-                        "location": "",
-                        "Ingredients": [],
-                        "description": ""
-                    },
-                    "Meal Three": {
-                        "id": "",
-                        "location": "",
-                        "Ingredients": [],
-                        "description": ""
-                    }
-                }
-            },
-            "French": {
-                "self_data": {
-                    "flag-src": "",
-                    "photo_src": ""
-                },
-                "meals": {
-                    "Meal One": {
-                        "id": "",
-                        "location": "",
-                        "Ingredients": [],
-                        "description": ""
-                    },
-                    "Meal Two": {
-                        "id": "",
-                        "location": "",
-                        "Ingredients": [],
-                        "description": ""
-                    },
-                    "Meal Three": {
-                        "id": "",
-                        "location": "",
-                        "Ingredients": [],
-                        "description": ""
-                    }
-                }
-            },
-            "Italian": {
-                "self_data": {
-                    "flag-src": "",
-                    "photo_src": ""
-                },
-                "meals": {
-                    "Meal One": {
-                        "id": "",
-                        "location": "",
-                        "Ingredients": [],
-                        "description": ""
-                    },
-                    "Meal Two": {
-                        "id": "",
-                        "location": "",
-                        "Ingredients": [],
-                        "description": ""
-                    },
-                    "Meal Three": {
-                        "id": "",
-                        "location": "",
-                        "Ingredients": [],
-                        "description": ""
-                    }
-                }
-            },
-            "Indian": {
-                "self_data": {
-                    "flag-src": "",
-                    "photo_src": ""
-                },
-                "meals": {
-                    "Meal One": {
-                        "id": "",
-                        "location": "",
-                        "Ingredients": [],
-                        "description": ""
-                    },
-                    "Meal Two": {
-                        "id": "",
-                        "location": "",
-                        "Ingredients": [],
-                        "description": ""
-                    },
-                    "Meal Three": {
-                        "id": "",
-                        "location": "",
-                        "Ingredients": [],
-                        "description": ""
-                    }
-                }
-            },
-            "Turkey": {
-                "self_data": {
-                    "flag-src": "",
-                    "photo_src": ""
-                },
-                "meals": {
-                    "Meal One": {
-                        "id": "",
-                        "location": "",
-                        "Ingredients": [],
-                        "description": ""
-                    },
-                    "Meal Two": {
-                        "id": "",
-                        "location": "",
-                        "Ingredients": [],
-                        "description": ""
-                    },
-                    "Meal Three": {
-                        "id": "",
-                        "location": "",
-                        "Ingredients": [],
-                        "description": ""
-                    }
-                }
-            },
-            "Spanish": {
-                "self_data": {
-                    "flag-src": "",
-                    "photo_src": ""
-                },
-                "meals": {
-                    "Meal One": {
-                        "id": "",
-                        "location": "",
-                        "Ingredients": [],
-                        "description": ""
-                    },
-                    "Meal Two": {
-                        "id": "",
-                        "location": "",
-                        "Ingredients": [],
-                        "description": ""
-                    },
-                    "Meal Three": {
-                        "id": "",
-                        "location": "",
-                        "Ingredients": [],
-                        "description": ""
-                    }
-                }
-            },
-            "Asian": {
-                "self_data": {
-                    "flag-src": "",
-                    "photo_src": ""
-                },
-                "meals": {
-                    "Meal One": {
-                        "id": "",
-                        "location": "",
-                        "Ingredients": [],
-                        "description": ""
-                    },
-                    "Meal Two": {
-                        "id": "",
-                        "location": "",
-                        "Ingredients": [],
-                        "description": ""
-                    },
-                    "Meal Three": {
-                        "id": "",
-                        "location": "",
-                        "Ingredients": [],
-                        "description": ""
-                    }
-                }
-            }
-        },
-        "dinner": {
-            "Egypt": {
-                "self_data": {
-                    "flag-src": "",
-                    "photo_src": ""
-                },
-                "meals": {
-                    "Meal One": {
-                        "id": "",
-                        "location": "",
-                        "Ingredients": [],
-                        "description": ""
-                    },
-                    "Meal Two": {
-                        "id": "",
-                        "location": "",
-                        "Ingredients": [],
-                        "description": ""
-                    },
-                    "Meal Three": {
-                        "id": "",
-                        "location": "",
-                        "Ingredients": [],
-                        "description": ""
-                    }
-                }
-            },
-            "Lebanon": {
-                "self_data": {
-                    "flag-src": "",
-                    "photo_src": ""
-                },
-                "meals": {
-                    "Meal One": {
-                        "id": "",
-                        "location": "",
-                        "Ingredients": [],
-                        "description": ""
-                    },
-                    "Meal Two": {
-                        "id": "",
-                        "location": "",
-                        "Ingredients": [],
-                        "description": ""
-                    },
-                    "Meal Three": {
-                        "id": "",
-                        "location": "",
-                        "Ingredients": [],
-                        "description": ""
-                    }
-                }
-            },
-            "khaligi": {
-                "self_data": {
-                    "flag-src": "",
-                    "photo_src": ""
-                },
-                "meals": {
-                    "Meal One": {
-                        "id": "",
-                        "location": "",
-                        "Ingredients": [],
-                        "description": ""
-                    },
-                    "Meal Two": {
-                        "id": "",
-                        "location": "",
-                        "Ingredients": [],
-                        "description": ""
-                    },
-                    "Meal Three": {
-                        "id": "",
-                        "location": "",
-                        "Ingredients": [],
-                        "description": ""
-                    }
-                }
-            },
-            "Morocco": {
-                "self_data": {
-                    "flag-src": "",
-                    "photo_src": ""
-                },
-                "meals": {
-                    "Meal One": {
-                        "id": "",
-                        "location": "",
-                        "Ingredients": [],
-                        "description": ""
-                    },
-                    "Meal Two": {
-                        "id": "",
-                        "location": "",
-                        "Ingredients": [],
-                        "description": ""
-                    },
-                    "Meal Three": {
-                        "id": "",
-                        "location": "",
-                        "Ingredients": [],
-                        "description": ""
-                    }
-                }
-            },
-            "French": {
-                "self_data": {
-                    "flag-src": "",
-                    "photo_src": ""
-                },
-                "meals": {
-                    "Meal One": {
-                        "id": "",
-                        "location": "",
-                        "Ingredients": [],
-                        "description": ""
-                    },
-                    "Meal Two": {
-                        "id": "",
-                        "location": "",
-                        "Ingredients": [],
-                        "description": ""
-                    },
-                    "Meal Three": {
-                        "id": "",
-                        "location": "",
-                        "Ingredients": [],
-                        "description": ""
-                    }
-                }
-            },
-            "Italian": {
-                "self_data": {
-                    "flag-src": "",
-                    "photo_src": ""
-                },
-                "meals": {
-                    "Meal One": {
-                        "id": "",
-                        "location": "",
-                        "Ingredients": [],
-                        "description": ""
-                    },
-                    "Meal Two": {
-                        "id": "",
-                        "location": "",
-                        "Ingredients": [],
-                        "description": ""
-                    },
-                    "Meal Three": {
-                        "id": "",
-                        "location": "",
-                        "Ingredients": [],
-                        "description": ""
-                    }
-                }
-            },
-            "Indian": {
-                "self_data": {
-                    "flag-src": "",
-                    "photo_src": ""
-                },
-                "meals": {
-                    "Meal One": {
-                        "id": "",
-                        "location": "",
-                        "Ingredients": [],
-                        "description": ""
-                    },
-                    "Meal Two": {
-                        "id": "",
-                        "location": "",
-                        "Ingredients": [],
-                        "description": ""
-                    },
-                    "Meal Three": {
-                        "id": "",
-                        "location": "",
-                        "Ingredients": [],
-                        "description": ""
-                    }
-                }
-            },
-            "Turkey": {
-                "self_data": {
-                    "flag-src": "",
-                    "photo_src": ""
-                },
-                "meals": {
-                    "Meal One": {
-                        "id": "",
-                        "location": "",
-                        "Ingredients": [],
-                        "description": ""
-                    },
-                    "Meal Two": {
-                        "id": "",
-                        "location": "",
-                        "Ingredients": [],
-                        "description": ""
-                    },
-                    "Meal Three": {
-                        "id": "",
-                        "location": "",
-                        "Ingredients": [],
-                        "description": ""
-                    }
-                }
-            },
-            "Spanish": {
-                "self_data": {
-                    "flag-src": "",
-                    "photo_src": ""
-                },
-                "meals": {
-                    "Meal One": {
-                        "id": "",
-                        "location": "",
-                        "Ingredients": [],
-                        "description": ""
-                    },
-                    "Meal Two": {
-                        "id": "",
-                        "location": "",
-                        "Ingredients": [],
-                        "description": ""
-                    },
-                    "Meal Three": {
-                        "id": "",
-                        "location": "",
-                        "Ingredients": [],
-                        "description": ""
-                    }
-                }
-            },
-            "Asian": {
-                "self_data": {
-                    "flag-src": "",
-                    "photo_src": ""
-                },
-                "meals": {
-                    "Meal One": {
-                        "id": "",
-                        "location": "",
-                        "Ingredients": [],
-                        "description": ""
-                    },
-                    "Meal Two": {
-                        "id": "",
-                        "location": "",
-                        "Ingredients": [],
-                        "description": ""
-                    },
-                    "Meal Three": {
-                        "id": "",
-                        "location": "",
-                        "Ingredients": [],
-                        "description": ""
-                    }
-                }
-            }
-        },
-        "desert": {
-            "Egypt": {
-                "self_data": {
-                    "flag-src": "",
-                    "photo_src": ""
-                },
-                "meals": {
-                    "Meal One": {
-                        "id": "",
-                        "location": "",
-                        "Ingredients": [],
-                        "description": ""
-                    },
-                    "Meal Two": {
-                        "id": "",
-                        "location": "",
-                        "Ingredients": [],
-                        "description": ""
-                    },
-                    "Meal Three": {
-                        "id": "",
-                        "location": "",
-                        "Ingredients": [],
-                        "description": ""
-                    }
-                }
-            },
-            "Lebanon": {
-                "self_data": {
-                    "flag-src": "",
-                    "photo_src": ""
-                },
-                "meals": {
-                    "Meal One": {
-                        "id": "",
-                        "location": "",
-                        "Ingredients": [],
-                        "description": ""
-                    },
-                    "Meal Two": {
-                        "id": "",
-                        "location": "",
-                        "Ingredients": [],
-                        "description": ""
-                    },
-                    "Meal Three": {
-                        "id": "",
-                        "location": "",
-                        "Ingredients": [],
-                        "description": ""
-                    }
-                }
-            },
-            "khaligi": {
-                "self_data": {
-                    "flag-src": "",
-                    "photo_src": ""
-                },
-                "meals": {
-                    "Meal One": {
-                        "id": "",
-                        "location": "",
-                        "Ingredients": [],
-                        "description": ""
-                    },
-                    "Meal Two": {
-                        "id": "",
-                        "location": "",
-                        "Ingredients": [],
-                        "description": ""
-                    },
-                    "Meal Three": {
-                        "id": "",
-                        "location": "",
-                        "Ingredients": [],
-                        "description": ""
-                    }
-                }
-            },
-            "Morocco": {
-                "self_data": {
-                    "flag-src": "",
-                    "photo_src": ""
-                },
-                "meals": {
-                    "Meal One": {
-                        "id": "",
-                        "location": "",
-                        "Ingredients": [],
-                        "description": ""
-                    },
-                    "Meal Two": {
-                        "id": "",
-                        "location": "",
-                        "Ingredients": [],
-                        "description": ""
-                    },
-                    "Meal Three": {
-                        "id": "",
-                        "location": "",
-                        "Ingredients": [],
-                        "description": ""
-                    }
-                }
-            },
-            "French": {
-                "self_data": {
-                    "flag-src": "",
-                    "photo_src": ""
-                },
-                "meals": {
-                    "Meal One": {
-                        "id": "",
-                        "location": "",
-                        "Ingredients": [],
-                        "description": ""
-                    },
-                    "Meal Two": {
-                        "id": "",
-                        "location": "",
-                        "Ingredients": [],
-                        "description": ""
-                    },
-                    "Meal Three": {
-                        "id": "",
-                        "location": "",
-                        "Ingredients": [],
-                        "description": ""
-                    }
-                }
-            },
-            "Italian": {
-                "self_data": {
-                    "flag-src": "",
-                    "photo_src": ""
-                },
-                "meals": {
-                    "Meal One": {
-                        "id": "",
-                        "location": "",
-                        "Ingredients": [],
-                        "description": ""
-                    },
-                    "Meal Two": {
-                        "id": "",
-                        "location": "",
-                        "Ingredients": [],
-                        "description": ""
-                    },
-                    "Meal Three": {
-                        "id": "",
-                        "location": "",
-                        "Ingredients": [],
-                        "description": ""
-                    }
-                }
-            },
-            "Indian": {
-                "self_data": {
-                    "flag-src": "",
-                    "photo_src": ""
-                },
-                "meals": {
-                    "Meal One": {
-                        "id": "",
-                        "location": "",
-                        "Ingredients": [],
-                        "description": ""
-                    },
-                    "Meal Two": {
-                        "id": "",
-                        "location": "",
-                        "Ingredients": [],
-                        "description": ""
-                    },
-                    "Meal Three": {
-                        "id": "",
-                        "location": "",
-                        "Ingredients": [],
-                        "description": ""
-                    }
-                }
-            },
-            "Turkey": {
-                "self_data": {
-                    "flag-src": "",
-                    "photo_src": ""
-                },
-                "meals": {
-                    "Meal One": {
-                        "id": "",
-                        "location": "",
-                        "Ingredients": [],
-                        "description": ""
-                    },
-                    "Meal Two": {
-                        "id": "",
-                        "location": "",
-                        "Ingredients": [],
-                        "description": ""
-                    },
-                    "Meal Three": {
-                        "id": "",
-                        "location": "",
-                        "Ingredients": [],
-                        "description": ""
-                    }
-                }
-            },
-            "Spanish": {
-                "self_data": {
-                    "flag-src": "",
-                    "photo_src": ""
-                },
-                "meals": {
-                    "Meal One": {
-                        "id": "",
-                        "location": "",
-                        "Ingredients": [],
-                        "description": ""
-                    },
-                    "Meal Two": {
-                        "id": "",
-                        "location": "",
-                        "Ingredients": [],
-                        "description": ""
-                    },
-                    "Meal Three": {
-                        "id": "",
-                        "location": "",
-                        "Ingredients": [],
-                        "description": ""
-                    }
-                }
-            },
-            "Asian": {
-                "self_data": {
-                    "flag-src": "",
-                    "photo_src": ""
-                },
-                "meals": {
-                    "Meal One": {
-                        "id": "",
-                        "location": "",
-                        "Ingredients": [],
-                        "description": ""
-                    },
-                    "Meal Two": {
-                        "id": "",
-                        "location": "",
-                        "Ingredients": [],
-                        "description": ""
-                    },
-                    "Meal Three": {
-                        "id": "",
-                        "location": "",
-                        "Ingredients": [],
-                        "description": ""
-                    }
-                }
-            }
-        },
-        "Ice-Cream": {
-            "Every": {
-                "meals": {
-                    "Meal One": {
-                        "id": "",
-                        "location": "",
-                        "Ingredients": [],
-                        "description": ""
-                    },
-                    "Meal Two": {
-                        "id": "",
-                        "location": "",
-                        "Ingredients": [],
-                        "description": ""
-                    },
-                    "Meal Three": {
-                        "id": "",
-                        "location": "",
-                        "Ingredients": [],
-                        "description": ""
-                    }
-                }
-            }
-        },
-        "Beverages": {
-            "Cold": {
-                "meals": {
-                    "Drink One": {
-                        "id": "",
-                        "location": "",
-                        "Ingredients": [],
-                        "description": ""
-                    },
-                    "Drink Two": {
-                        "id": "",
-                        "location": "",
-                        "Ingredients": [],
-                        "description": ""
-                    },
-                    "Drink Three": {
-                        "id": "",
-                        "location": "",
-                        "Ingredients": [],
-                        "description": ""
-                    }
-                }
-            },
-            "Hot": {
-                "meals": {
-                    "Meal One": {
-                        "id": "",
-                        "location": "",
-                        "Ingredients": [],
-                        "description": ""
-                    },
-                    "Meal Two": {
-                        "id": "",
-                        "location": "",
-                        "Ingredients": [],
-                        "description": ""
-                    },
-                    "Meal Three": {
-                        "id": "",
-                        "location": "",
-                        "Ingredients": [],
-                        "description": ""
-                    }
-                }
-            }
-        },
-        "pastries": {
-            "Every": {
-                "meals": {
-                    "Meal One": {
-                        "id": "",
-                        "location": "",
-                        "Ingredients": [],
-                        "description": ""
-                    },
-                    "Meal Two": {
-                        "id": "",
-                        "location": "",
-                        "Ingredients": [],
-                        "description": ""
-                    },
-                    "Meal Three": {
-                        "id": "",
-                        "location": "",
-                        "Ingredients": [],
-                        "description": ""
-                    }
-                }
-            }
-        },
-        "secrets": {
-            "Every": {
-                "meals": {
-                    "Meal One": {
-                        "id": "",
-                        "location": "",
-                        "Ingredients": [],
-                        "description": ""
-                    },
-                    "Meal Two": {
-                        "id": "",
-                        "location": "",
-                        "Ingredients": [],
-                        "description": ""
-                    },
-                    "Meal Three": {
-                        "id": "",
-                        "location": "",
-                        "Ingredients": [],
-                        "description": ""
-                    }
-                }
-            }
+        "meals": {
+          "Meal One": {
+            "id": "1",
+            "location": "./Kitchen/meals/breakfast/Casseroles/Breakfast Quiche/Easy Bacon and Cheese Quiche/أرز بالكاري مع كرات اللحم.mp4",
+            "title": "Easy Bacon and Cheese Quiche",
+            "audio": "./Kitchen/meals/breakfast/Casseroles/Breakfast Quiche/Easy Bacon and Cheese Quiche/unknown_2023.07.04-00.03.mp3",
+            "Ingredients": [
+              "كفتة: 300 غراماً (مع بقدونس وبصل)",
+              "بقسماط: ربع كوب",
+              "بهارات مشكلة: نصف ملعقة صغيرة",
+              "ملح: ملعقة صغيرة",
+              "مرق دجاج: 1 مكعب",
+              "أرز بسمتي: كوب ونصف (مغسول ومنقوع)",
+              "البصل: 1 حبة (كبير الحجم / مقطع شرائح)",
+              "الزيت النباتي: 2 ملعقة كبيرة",
+              "هيل: ملعقة صغيرة (مطحون)",
+              "الزبدة: ملعقة كبيرة",
+              "بودرة الكاري: 2 ملعقة صغيرة",
+              "زبيب: ربع كوب",
+              "الجزر: 3 حبات (مبشور)",
+              "ماء ساخن: كوبان وربع",
+              "الزيت النباتي: 2 ملعقة كبيرة (لقلي كرات اللحم)"
+            ],
+            "description": "Prep Time: 10 mins Cook Time:50 mins Total Time:1 hr Servings:6"
+          },
+          "Meal Two": {
+            "id": "2",
+            "location": "./Kitchen/meals/breakfast/Casseroles/Breakfast Quiche/Easy Quiche/How to Make Quiche _ Easy Quiche Recipe _ Allrecipes.com.mp4",
+            "title": "Easy Bacon and Cheese Quiche",
+            "Ingredients": [
+              "2 cups milk",
+              "4 large eggs",
+              "1 cup grated Parmesan cheese",
+              "3/4 cup biscuit baking mix",
+              "1/4 cup butter, softened",
+              "1 (10 ounce) package chopped frozen broccoli, thawed and drained",
+              "8 ounces shredded Cheddar cheese",
+              "1 cup cubed cooked ham"
+            ],
+            "description": "Total Time: 1 hr Servings: 8 Yield: 1 (10-inch) quiche"
+          },
+          "Meal Three": {
+            "id": "3",
+            "location": "./Kitchen/meals/breakfast/Casseroles/Breakfast Quiche/Loaded Vegetarian Quiche/main.mp4",
+            "title": "Loaded Vegetarian Quiche",
+            "Ingredients": [
+              "1 (9 inch) deep-dish pie crust",
+              "1 tablespoon olive oil",
+              "½ cup sliced onion",
+              "½ cup chopped green bell pepper",
+              "½ cup mushrooms, sliced",
+              "½ cup chopped zucchini",
+              "1 large tomato, sliced"
+            ],
+            "description": "Prep Time: 20 mins Cook Time: 55 mins Additional Time: 5 mins Total Time: 1 hr 20 mins Servings: 8 Yield:1 deep-dish quiche"
+          },
+          "Meal Four": {
+            "location": "video",
+            "title": "rice",
+            "audio": "",
+            "Ingredients": [
+              "description"
+            ],
+            "description": "desc"
+          }
         }
+      },
+      "Lebanon": {
+        "self_data": {
+          "flag-src": "",
+          "photo_src": ""
+        },
+        "meals": {
+          "Meal One": {
+            "id": "",
+            "location": "",
+            "Ingredients": [],
+            "description": ""
+          },
+          "Meal Two": {
+            "id": "",
+            "location": "",
+            "Ingredients": [],
+            "description": ""
+          },
+          "Meal Three": {
+            "id": "",
+            "location": "",
+            "Ingredients": [],
+            "description": ""
+          }
+        }
+      },
+      "khaligi": {
+        "self_data": {
+          "flag-src": "",
+          "photo_src": ""
+        },
+        "meals": {
+          "Meal One": {
+            "id": "",
+            "location": "",
+            "Ingredients": [],
+            "description": ""
+          },
+          "Meal Two": {
+            "id": "",
+            "location": "",
+            "Ingredients": [],
+            "description": ""
+          },
+          "Meal Three": {
+            "id": "",
+            "location": "",
+            "Ingredients": [],
+            "description": ""
+          }
+        }
+      },
+      "Morocco": {
+        "self_data": {
+          "flag-src": "",
+          "photo_src": ""
+        },
+        "meals": {
+          "Meal One": {
+            "id": "",
+            "location": "",
+            "Ingredients": [],
+            "description": ""
+          },
+          "Meal Two": {
+            "id": "",
+            "location": "",
+            "Ingredients": [],
+            "description": ""
+          },
+          "Meal Three": {
+            "id": "",
+            "location": "",
+            "Ingredients": [],
+            "description": ""
+          }
+        }
+      },
+      "French": {
+        "self_data": {
+          "flag-src": "",
+          "photo_src": ""
+        },
+        "meals": {
+          "Meal One": {
+            "id": "",
+            "location": "",
+            "Ingredients": [],
+            "description": ""
+          },
+          "Meal Two": {
+            "id": "",
+            "location": "",
+            "Ingredients": [],
+            "description": ""
+          },
+          "Meal Three": {
+            "id": "",
+            "location": "",
+            "Ingredients": [],
+            "description": ""
+          }
+        }
+      },
+      "Italian": {
+        "self_data": {
+          "flag-src": "",
+          "photo_src": ""
+        },
+        "meals": {
+          "Meal One": {
+            "id": "",
+            "location": "",
+            "Ingredients": [],
+            "description": ""
+          },
+          "Meal Two": {
+            "id": "",
+            "location": "",
+            "Ingredients": [],
+            "description": ""
+          },
+          "Meal Three": {
+            "id": "",
+            "location": "",
+            "Ingredients": [],
+            "description": ""
+          }
+        }
+      },
+      "Indian": {
+        "self_data": {
+          "flag-src": "",
+          "photo_src": ""
+        },
+        "meals": {
+          "Meal One": {
+            "id": "",
+            "location": "",
+            "Ingredients": [],
+            "description": ""
+          },
+          "Meal Two": {
+            "id": "",
+            "location": "",
+            "Ingredients": [],
+            "description": ""
+          },
+          "Meal Three": {
+            "id": "",
+            "location": "",
+            "Ingredients": [],
+            "description": ""
+          }
+        }
+      },
+      "Turkey": {
+        "self_data": {
+          "flag-src": "",
+          "photo_src": ""
+        },
+        "meals": {
+          "Meal One": {
+            "id": "",
+            "location": "",
+            "Ingredients": [],
+            "description": ""
+          },
+          "Meal Two": {
+            "id": "",
+            "location": "",
+            "Ingredients": [],
+            "description": ""
+          },
+          "Meal Three": {
+            "id": "",
+            "location": "",
+            "Ingredients": [],
+            "description": ""
+          }
+        }
+      },
+      "Spanish": {
+        "self_data": {
+          "flag-src": "",
+          "photo_src": ""
+        },
+        "meals": {
+          "Meal One": {
+            "id": "",
+            "location": "",
+            "Ingredients": [],
+            "description": ""
+          },
+          "Meal Two": {
+            "id": "",
+            "location": "",
+            "Ingredients": [],
+            "description": ""
+          },
+          "Meal Three": {
+            "id": "",
+            "location": "",
+            "Ingredients": [],
+            "description": ""
+          }
+        }
+      },
+      "Asian": {
+        "self_data": {
+          "flag-src": "",
+          "photo_src": ""
+        },
+        "meals": {
+          "Meal One": {
+            "id": "",
+            "location": "",
+            "Ingredients": [],
+            "description": ""
+          },
+          "Meal Two": {
+            "id": "",
+            "location": "",
+            "Ingredients": [],
+            "description": ""
+          },
+          "Meal Three": {
+            "id": "",
+            "location": "",
+            "Ingredients": [],
+            "description": ""
+          }
+        }
+      }
+    },
+    "lunch": {
+      "Egypt": {
+        "self_data": {
+          "flag-src": "",
+          "photo_src": ""
+        },
+        "meals": {
+          "Meal One": {
+            "id": "",
+            "location": "",
+            "Ingredients": [],
+            "description": ""
+          },
+          "Meal Two": {
+            "id": "",
+            "location": "",
+            "Ingredients": [],
+            "description": ""
+          },
+          "Meal Three": {
+            "id": "",
+            "location": "",
+            "Ingredients": [],
+            "description": ""
+          }
+        }
+      },
+      "Lebanon": {
+        "self_data": {
+          "flag-src": "",
+          "photo_src": ""
+        },
+        "meals": {
+          "Meal One": {
+            "id": "",
+            "location": "",
+            "Ingredients": [],
+            "description": ""
+          },
+          "Meal Two": {
+            "id": "",
+            "location": "",
+            "Ingredients": [],
+            "description": ""
+          },
+          "Meal Three": {
+            "id": "",
+            "location": "",
+            "Ingredients": [],
+            "description": ""
+          }
+        }
+      },
+      "khaligi": {
+        "self_data": {
+          "flag-src": "",
+          "photo_src": ""
+        },
+        "meals": {
+          "Meal One": {
+            "id": "",
+            "location": "",
+            "Ingredients": [],
+            "description": ""
+          },
+          "Meal Two": {
+            "id": "",
+            "location": "",
+            "Ingredients": [],
+            "description": ""
+          },
+          "Meal Three": {
+            "id": "",
+            "location": "",
+            "Ingredients": [],
+            "description": ""
+          }
+        }
+      },
+      "Morocco": {
+        "self_data": {
+          "flag-src": "",
+          "photo_src": ""
+        },
+        "meals": {
+          "Meal One": {
+            "id": "",
+            "location": "",
+            "Ingredients": [],
+            "description": ""
+          },
+          "Meal Two": {
+            "id": "",
+            "location": "",
+            "Ingredients": [],
+            "description": ""
+          },
+          "Meal Three": {
+            "id": "",
+            "location": "",
+            "Ingredients": [],
+            "description": ""
+          }
+        }
+      },
+      "French": {
+        "self_data": {
+          "flag-src": "",
+          "photo_src": ""
+        },
+        "meals": {
+          "Meal One": {
+            "id": "",
+            "location": "",
+            "Ingredients": [],
+            "description": ""
+          },
+          "Meal Two": {
+            "id": "",
+            "location": "",
+            "Ingredients": [],
+            "description": ""
+          },
+          "Meal Three": {
+            "id": "",
+            "location": "",
+            "Ingredients": [],
+            "description": ""
+          }
+        }
+      },
+      "Italian": {
+        "self_data": {
+          "flag-src": "",
+          "photo_src": ""
+        },
+        "meals": {
+          "Meal One": {
+            "id": "",
+            "location": "",
+            "Ingredients": [],
+            "description": ""
+          },
+          "Meal Two": {
+            "id": "",
+            "location": "",
+            "Ingredients": [],
+            "description": ""
+          },
+          "Meal Three": {
+            "id": "",
+            "location": "",
+            "Ingredients": [],
+            "description": ""
+          }
+        }
+      },
+      "Indian": {
+        "self_data": {
+          "flag-src": "",
+          "photo_src": ""
+        },
+        "meals": {
+          "Meal One": {
+            "id": "",
+            "location": "",
+            "Ingredients": [],
+            "description": ""
+          },
+          "Meal Two": {
+            "id": "",
+            "location": "",
+            "Ingredients": [],
+            "description": ""
+          },
+          "Meal Three": {
+            "id": "",
+            "location": "",
+            "Ingredients": [],
+            "description": ""
+          }
+        }
+      },
+      "Turkey": {
+        "self_data": {
+          "flag-src": "",
+          "photo_src": ""
+        },
+        "meals": {
+          "Meal One": {
+            "id": "",
+            "location": "",
+            "Ingredients": [],
+            "description": ""
+          },
+          "Meal Two": {
+            "id": "",
+            "location": "",
+            "Ingredients": [],
+            "description": ""
+          },
+          "Meal Three": {
+            "id": "",
+            "location": "",
+            "Ingredients": [],
+            "description": ""
+          }
+        }
+      },
+      "Spanish": {
+        "self_data": {
+          "flag-src": "",
+          "photo_src": ""
+        },
+        "meals": {
+          "Meal One": {
+            "id": "",
+            "location": "",
+            "Ingredients": [],
+            "description": ""
+          },
+          "Meal Two": {
+            "id": "",
+            "location": "",
+            "Ingredients": [],
+            "description": ""
+          },
+          "Meal Three": {
+            "id": "",
+            "location": "",
+            "Ingredients": [],
+            "description": ""
+          }
+        }
+      },
+      "Asian": {
+        "self_data": {
+          "flag-src": "",
+          "photo_src": ""
+        },
+        "meals": {
+          "Meal One": {
+            "id": "",
+            "location": "",
+            "Ingredients": [],
+            "description": ""
+          },
+          "Meal Two": {
+            "id": "",
+            "location": "",
+            "Ingredients": [],
+            "description": ""
+          },
+          "Meal Three": {
+            "id": "",
+            "location": "",
+            "Ingredients": [],
+            "description": ""
+          }
+        }
+      }
+    },
+    "dinner": {
+      "Egypt": {
+        "self_data": {
+          "flag-src": "",
+          "photo_src": ""
+        },
+        "meals": {
+          "Meal One": {
+            "id": "",
+            "location": "",
+            "Ingredients": [],
+            "description": ""
+          },
+          "Meal Two": {
+            "id": "",
+            "location": "",
+            "Ingredients": [],
+            "description": ""
+          },
+          "Meal Three": {
+            "id": "",
+            "location": "",
+            "Ingredients": [],
+            "description": ""
+          }
+        }
+      },
+      "Lebanon": {
+        "self_data": {
+          "flag-src": "",
+          "photo_src": ""
+        },
+        "meals": {
+          "Meal One": {
+            "id": "",
+            "location": "",
+            "Ingredients": [],
+            "description": ""
+          },
+          "Meal Two": {
+            "id": "",
+            "location": "",
+            "Ingredients": [],
+            "description": ""
+          },
+          "Meal Three": {
+            "id": "",
+            "location": "",
+            "Ingredients": [],
+            "description": ""
+          }
+        }
+      },
+      "khaligi": {
+        "self_data": {
+          "flag-src": "",
+          "photo_src": ""
+        },
+        "meals": {
+          "Meal One": {
+            "id": "",
+            "location": "",
+            "Ingredients": [],
+            "description": ""
+          },
+          "Meal Two": {
+            "id": "",
+            "location": "",
+            "Ingredients": [],
+            "description": ""
+          },
+          "Meal Three": {
+            "id": "",
+            "location": "",
+            "Ingredients": [],
+            "description": ""
+          }
+        }
+      },
+      "Morocco": {
+        "self_data": {
+          "flag-src": "",
+          "photo_src": ""
+        },
+        "meals": {
+          "Meal One": {
+            "id": "",
+            "location": "",
+            "Ingredients": [],
+            "description": ""
+          },
+          "Meal Two": {
+            "id": "",
+            "location": "",
+            "Ingredients": [],
+            "description": ""
+          },
+          "Meal Three": {
+            "id": "",
+            "location": "",
+            "Ingredients": [],
+            "description": ""
+          }
+        }
+      },
+      "French": {
+        "self_data": {
+          "flag-src": "",
+          "photo_src": ""
+        },
+        "meals": {
+          "Meal One": {
+            "id": "",
+            "location": "",
+            "Ingredients": [],
+            "description": ""
+          },
+          "Meal Two": {
+            "id": "",
+            "location": "",
+            "Ingredients": [],
+            "description": ""
+          },
+          "Meal Three": {
+            "id": "",
+            "location": "",
+            "Ingredients": [],
+            "description": ""
+          }
+        }
+      },
+      "Italian": {
+        "self_data": {
+          "flag-src": "",
+          "photo_src": ""
+        },
+        "meals": {
+          "Meal One": {
+            "id": "",
+            "location": "",
+            "Ingredients": [],
+            "description": ""
+          },
+          "Meal Two": {
+            "id": "",
+            "location": "",
+            "Ingredients": [],
+            "description": ""
+          },
+          "Meal Three": {
+            "id": "",
+            "location": "",
+            "Ingredients": [],
+            "description": ""
+          }
+        }
+      },
+      "Indian": {
+        "self_data": {
+          "flag-src": "",
+          "photo_src": ""
+        },
+        "meals": {
+          "Meal One": {
+            "id": "",
+            "location": "",
+            "Ingredients": [],
+            "description": ""
+          },
+          "Meal Two": {
+            "id": "",
+            "location": "",
+            "Ingredients": [],
+            "description": ""
+          },
+          "Meal Three": {
+            "id": "",
+            "location": "",
+            "Ingredients": [],
+            "description": ""
+          }
+        }
+      },
+      "Turkey": {
+        "self_data": {
+          "flag-src": "",
+          "photo_src": ""
+        },
+        "meals": {
+          "Meal One": {
+            "id": "",
+            "location": "",
+            "Ingredients": [],
+            "description": ""
+          },
+          "Meal Two": {
+            "id": "",
+            "location": "",
+            "Ingredients": [],
+            "description": ""
+          },
+          "Meal Three": {
+            "id": "",
+            "location": "",
+            "Ingredients": [],
+            "description": ""
+          }
+        }
+      },
+      "Spanish": {
+        "self_data": {
+          "flag-src": "",
+          "photo_src": ""
+        },
+        "meals": {
+          "Meal One": {
+            "id": "",
+            "location": "",
+            "Ingredients": [],
+            "description": ""
+          },
+          "Meal Two": {
+            "id": "",
+            "location": "",
+            "Ingredients": [],
+            "description": ""
+          },
+          "Meal Three": {
+            "id": "",
+            "location": "",
+            "Ingredients": [],
+            "description": ""
+          }
+        }
+      },
+      "Asian": {
+        "self_data": {
+          "flag-src": "",
+          "photo_src": ""
+        },
+        "meals": {
+          "Meal One": {
+            "id": "",
+            "location": "",
+            "Ingredients": [],
+            "description": ""
+          },
+          "Meal Two": {
+            "id": "",
+            "location": "",
+            "Ingredients": [],
+            "description": ""
+          },
+          "Meal Three": {
+            "id": "",
+            "location": "",
+            "Ingredients": [],
+            "description": ""
+          }
+        }
+      }
+    },
+    "desert": {
+      "Egypt": {
+        "self_data": {
+          "flag-src": "",
+          "photo_src": ""
+        },
+        "meals": {
+          "Meal One": {
+            "id": "",
+            "location": "",
+            "Ingredients": [],
+            "description": ""
+          },
+          "Meal Two": {
+            "id": "",
+            "location": "",
+            "Ingredients": [],
+            "description": ""
+          },
+          "Meal Three": {
+            "id": "",
+            "location": "",
+            "Ingredients": [],
+            "description": ""
+          }
+        }
+      },
+      "Lebanon": {
+        "self_data": {
+          "flag-src": "",
+          "photo_src": ""
+        },
+        "meals": {
+          "Meal One": {
+            "id": "",
+            "location": "",
+            "Ingredients": [],
+            "description": ""
+          },
+          "Meal Two": {
+            "id": "",
+            "location": "",
+            "Ingredients": [],
+            "description": ""
+          },
+          "Meal Three": {
+            "id": "",
+            "location": "",
+            "Ingredients": [],
+            "description": ""
+          }
+        }
+      },
+      "khaligi": {
+        "self_data": {
+          "flag-src": "",
+          "photo_src": ""
+        },
+        "meals": {
+          "Meal One": {
+            "id": "",
+            "location": "",
+            "Ingredients": [],
+            "description": ""
+          },
+          "Meal Two": {
+            "id": "",
+            "location": "",
+            "Ingredients": [],
+            "description": ""
+          },
+          "Meal Three": {
+            "id": "",
+            "location": "",
+            "Ingredients": [],
+            "description": ""
+          }
+        }
+      },
+      "Morocco": {
+        "self_data": {
+          "flag-src": "",
+          "photo_src": ""
+        },
+        "meals": {
+          "Meal One": {
+            "id": "",
+            "location": "",
+            "Ingredients": [],
+            "description": ""
+          },
+          "Meal Two": {
+            "id": "",
+            "location": "",
+            "Ingredients": [],
+            "description": ""
+          },
+          "Meal Three": {
+            "id": "",
+            "location": "",
+            "Ingredients": [],
+            "description": ""
+          }
+        }
+      },
+      "French": {
+        "self_data": {
+          "flag-src": "",
+          "photo_src": ""
+        },
+        "meals": {
+          "Meal One": {
+            "id": "",
+            "location": "",
+            "Ingredients": [],
+            "description": ""
+          },
+          "Meal Two": {
+            "id": "",
+            "location": "",
+            "Ingredients": [],
+            "description": ""
+          },
+          "Meal Three": {
+            "id": "",
+            "location": "",
+            "Ingredients": [],
+            "description": ""
+          }
+        }
+      },
+      "Italian": {
+        "self_data": {
+          "flag-src": "",
+          "photo_src": ""
+        },
+        "meals": {
+          "Meal One": {
+            "id": "",
+            "location": "",
+            "Ingredients": [],
+            "description": ""
+          },
+          "Meal Two": {
+            "id": "",
+            "location": "",
+            "Ingredients": [],
+            "description": ""
+          },
+          "Meal Three": {
+            "id": "",
+            "location": "",
+            "Ingredients": [],
+            "description": ""
+          }
+        }
+      },
+      "Indian": {
+        "self_data": {
+          "flag-src": "",
+          "photo_src": ""
+        },
+        "meals": {
+          "Meal One": {
+            "id": "",
+            "location": "",
+            "Ingredients": [],
+            "description": ""
+          },
+          "Meal Two": {
+            "id": "",
+            "location": "",
+            "Ingredients": [],
+            "description": ""
+          },
+          "Meal Three": {
+            "id": "",
+            "location": "",
+            "Ingredients": [],
+            "description": ""
+          }
+        }
+      },
+      "Turkey": {
+        "self_data": {
+          "flag-src": "",
+          "photo_src": ""
+        },
+        "meals": {
+          "Meal One": {
+            "id": "",
+            "location": "",
+            "Ingredients": [],
+            "description": ""
+          },
+          "Meal Two": {
+            "id": "",
+            "location": "",
+            "Ingredients": [],
+            "description": ""
+          },
+          "Meal Three": {
+            "id": "",
+            "location": "",
+            "Ingredients": [],
+            "description": ""
+          }
+        }
+      },
+      "Spanish": {
+        "self_data": {
+          "flag-src": "",
+          "photo_src": ""
+        },
+        "meals": {
+          "Meal One": {
+            "id": "",
+            "location": "",
+            "Ingredients": [],
+            "description": ""
+          },
+          "Meal Two": {
+            "id": "",
+            "location": "",
+            "Ingredients": [],
+            "description": ""
+          },
+          "Meal Three": {
+            "id": "",
+            "location": "",
+            "Ingredients": [],
+            "description": ""
+          }
+        }
+      },
+      "Asian": {
+        "self_data": {
+          "flag-src": "",
+          "photo_src": ""
+        },
+        "meals": {
+          "Meal One": {
+            "id": "",
+            "location": "",
+            "Ingredients": [],
+            "description": ""
+          },
+          "Meal Two": {
+            "id": "",
+            "location": "",
+            "Ingredients": [],
+            "description": ""
+          },
+          "Meal Three": {
+            "id": "",
+            "location": "",
+            "Ingredients": [],
+            "description": ""
+          }
+        }
+      }
+    },
+    "Ice-Cream": {
+      "Every": {
+        "meals": {
+          "Meal One": {
+            "id": "",
+            "location": "",
+            "Ingredients": [],
+            "description": ""
+          },
+          "Meal Two": {
+            "id": "",
+            "location": "",
+            "Ingredients": [],
+            "description": ""
+          },
+          "Meal Three": {
+            "id": "",
+            "location": "",
+            "Ingredients": [],
+            "description": ""
+          }
+        }
+      }
+    },
+    "Beverages": {
+      "Cold": {
+        "meals": {
+          "Drink One": {
+            "id": "",
+            "location": "",
+            "Ingredients": [],
+            "description": ""
+          },
+          "Drink Two": {
+            "id": "",
+            "location": "",
+            "Ingredients": [],
+            "description": ""
+          },
+          "Drink Three": {
+            "id": "",
+            "location": "",
+            "Ingredients": [],
+            "description": ""
+          }
+        }
+      },
+      "Hot": {
+        "meals": {
+          "Meal One": {
+            "id": "",
+            "location": "",
+            "Ingredients": [],
+            "description": ""
+          },
+          "Meal Two": {
+            "id": "",
+            "location": "",
+            "Ingredients": [],
+            "description": ""
+          },
+          "Meal Three": {
+            "id": "",
+            "location": "",
+            "Ingredients": [],
+            "description": ""
+          }
+        }
+      }
+    },
+    "pastries": {
+      "Every": {
+        "meals": {
+          "Meal One": {
+            "id": "",
+            "location": "",
+            "Ingredients": [],
+            "description": ""
+          },
+          "Meal Two": {
+            "id": "",
+            "location": "",
+            "Ingredients": [],
+            "description": ""
+          },
+          "Meal Three": {
+            "id": "",
+            "location": "",
+            "Ingredients": [],
+            "description": ""
+          }
+        }
+      }
+    },
+    "secrets": {
+      "Every": {
+        "meals": {
+          "Meal One": {
+            "id": "",
+            "location": "",
+            "Ingredients": [],
+            "description": ""
+          },
+          "Meal Two": {
+            "id": "",
+            "location": "",
+            "Ingredients": [],
+            "description": ""
+          },
+          "Meal Three": {
+            "id": "",
+            "location": "",
+            "Ingredients": [],
+            "description": ""
+          }
+        }
+      }
     }
+  }
 }

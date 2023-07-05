@@ -1,11 +1,43 @@
 const fs = require('fs');
 const express = require('express');
+const bodyParser = require('body-parser');
+
 const app = express();
+app.use(bodyParser.json());
 
 
-const jsonContent = fs.readFileSync('./db/db.json', 'utf-8');
-const data = JSON.parse(jsonContent);
+app.patch('/api/update-db', (req, res) => {
+    const obj = req.body;
+    const jsonContent = fs.readFileSync('./db/db.json', 'utf-8');
+    const jsonData = JSON.parse(jsonContent);
+    // Recursive function to access key names of nested objects
+    function getNestedKeys(obj, keys = []) {
+        for (const key in obj) {
+            keys.push(key);
+            if (typeof obj[key] === "object") {
+                getNestedKeys(obj[key], keys); // Recursively call the function for nested objects
+            }
+        }
+        return keys;
+    }
 
+    // get the keys
+    const nestedKeys = getNestedKeys(obj);
+    console.log(nestedKeys);
+    console.log(nestedKeys[1]);
+    // console.log(Object.keys(obj.food_category)[0]);
+
+
+    jsonData[`${nestedKeys[0]}`][`${nestedKeys[1]}`][`${nestedKeys[2]}`][`${nestedKeys[3]}`][`${nestedKeys[4]}`] = obj[`${nestedKeys[0]}`][`${nestedKeys[1]}`][`${nestedKeys[2]}`][`${nestedKeys[3]}`][`${nestedKeys[4]}`];
+
+    const modifiedJson = JSON.stringify(jsonData, null, 2);
+    fs.writeFileSync('./db/db.json', modifiedJson, 'utf-8');
+
+    res.json({
+        status: 'success',
+        updatedData: obj[`${nestedKeys[0]}`][`${nestedKeys[1]}`][`${nestedKeys[2]}`][`${nestedKeys[3]}`][`${nestedKeys[4]}`],
+    })
+})
 // Serve HTML file
 app.get('/', function (req, res) {
     res.sendFile(__dirname + '/index.html');

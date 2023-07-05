@@ -1024,17 +1024,17 @@ function checkItems(container, name) {
                             }
                         }
                     }
-                    
+
                     // console it to the browser
                     console.log(tryItBaby);
 
                     // add to the json file
-                    fetch('/', {
-                        method: 'POST',
+                    fetch('/api/update-db', {
+                        method: 'PATCH',
                         headers: {
                             'Content-Type': 'application/json'
                         },
-                        body: JSON.stringify(data)
+                        body: JSON.stringify(tryItBaby)
                     })
                         .then(response => response.json())
                         .then(data => console.log(data))
